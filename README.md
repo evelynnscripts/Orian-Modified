@@ -1,5 +1,5 @@
-# Orion Library
-This documentation is modded, credits to owners.
+# Orion Library | Docs
+This library is modded, credits to owners.
 
 ## Booting the Library
 ```lua
