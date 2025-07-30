@@ -1,5 +1,5 @@
 # Orion Library
-This documentation is for the stable release of Orion Library.
+This documentation is modded, credits to owners.
 
 ## Booting the Library
 ```lua
